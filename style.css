@@ -20,6 +20,10 @@ body {
   overflow-y: auto; /* Enable scrolling if needed */
 }
 
+.main-section header {
+  font-size: 1.7em;
+  margin-bottom: 10px;
+}
 #navbar header {
   font-size: 1.6em;
   margin-bottom: 20px;
@@ -46,10 +50,6 @@ body {
   margin-bottom: 40px;
 }
 
-.main-section header {
-  font-size: 1.7em;
-  margin-bottom: 10px;
-}
 
 @media screen and (max-width: 768px) {
   /* Adjustments for smaller devices */
@@ -59,7 +59,7 @@ body {
     position: static;
     text-align: justify;
   }
-  
+
   #main-doc {
     margin-left: 0;
   }
