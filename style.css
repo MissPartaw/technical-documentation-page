@@ -24,6 +24,7 @@ body {
   font-size: 1.7em;
   margin-bottom: 10px;
 }
+
 #navbar header {
   font-size: 1.6em;
   margin-bottom: 20px;
@@ -49,7 +50,6 @@ body {
 .main-section {
   margin-bottom: 40px;
 }
-
 
 @media screen and (max-width: 768px) {
   /* Adjustments for smaller devices */
