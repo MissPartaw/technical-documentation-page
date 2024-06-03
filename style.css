@@ -19,6 +19,7 @@ body {
   padding: 20px;
   overflow-y: auto; /* Enable scrolling if needed */
 }
+
 .main-section header {
   font-size: 1.7em;
   margin-bottom: 10px;
@@ -60,7 +61,7 @@ body {
     position: static;
     text-align: justify;
   }
-  
+
   #main-doc {
     margin-left: 0;
   }
